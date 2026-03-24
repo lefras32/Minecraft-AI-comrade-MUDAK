@@ -4,12 +4,12 @@ const collectBlock = require('mineflayer-collectblock').plugin;
 const Groq = require('groq-sdk');
 const fs = require('fs');
 
-const groq = new Groq({ apiKey: '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' });
+const groq = new Groq({ apiKey: 'СЮДА API КЛЮЧ' });
 const EXPERIENCE_FILE = './experience.json';
 let isBusy = false; 
 
 let experience = fs.existsSync(EXPERIENCE_FILE) ? JSON.parse(fs.readFileSync(EXPERIENCE_FILE, 'utf8')) : [];
-
+//здесь вписываешь данные своей версии ip адресса если на сервере, если локально то также оставляешь localhost
 const bot = mineflayer.createBot({
     host: 'localhost',
     port: 55555,
