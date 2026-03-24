@@ -1,0 +1,122 @@
+[
+  {
+    "action": "hunt",
+    "status": "Успех",
+    "detail": "Убил sheep",
+    "time": "10:35:32"
+  },
+  {
+    "action": "hunt",
+    "status": "Успех",
+    "detail": "Убил sheep",
+    "time": "10:35:46"
+  },
+  {
+    "action": "hunt",
+    "status": "Успех",
+    "detail": "Убил sheep",
+    "time": "10:35:52"
+  },
+  {
+    "action": "hunt",
+    "status": "Успех",
+    "detail": "Убил sheep",
+    "time": "10:39:42"
+  },
+  {
+    "action": "hunt",
+    "status": "Успіх",
+    "detail": "Полювання на sheep з мечем",
+    "time": "10:40:49"
+  },
+  {
+    "action": "mine",
+    "status": "Частично",
+    "detail": "Собрано 8/10",
+    "time": "10:46:40"
+  },
+  {
+    "action": "mine",
+    "status": "Частично",
+    "detail": "Собрано 2/3",
+    "time": "10:49:00"
+  },
+  {
+    "action": "build",
+    "status": "Успех",
+    "detail": "Построено 0 блоков",
+    "time": "10:54:13"
+  },
+  {
+    "action": "build",
+    "status": "Успех",
+    "detail": "Построено 4 блоков",
+    "time": "10:54:20"
+  },
+  {
+    "action": "mine",
+    "status": "Частично",
+    "detail": "Собрано 0/all",
+    "time": "10:54:36"
+  },
+  {
+    "action": "mine",
+    "status": "Частично",
+    "detail": "Собрано 5/6",
+    "time": "10:54:56"
+  },
+  {
+    "action": "sleep",
+    "status": "Успех",
+    "detail": "Бот лег спать",
+    "time": "10:59:34"
+  },
+  {
+    "action": "mine",
+    "status": "Частично",
+    "detail": "Собрано 9/10",
+    "time": "11:00:35"
+  },
+  {
+    "action": "mine",
+    "status": "Частично",
+    "detail": "Собрано 9/10",
+    "time": "11:06:57"
+  },
+  {
+    "action": "mine",
+    "status": "Частично",
+    "detail": "Собрано 0/until_full_inventory",
+    "time": "11:20:40"
+  },
+  {
+    "action": "mine",
+    "status": "Частично",
+    "detail": "Собрано 17/20",
+    "time": "11:22:16"
+  },
+  {
+    "action": "hunt",
+    "status": "Успіх",
+    "detail": "Полювання на chicken з мечем",
+    "time": "11:32:14"
+  },
+  {
+    "action": "hunt",
+    "status": "Успіх",
+    "detail": "Полювання на chicken з мечем",
+    "time": "11:32:23"
+  },
+  {
+    "action": "hunt",
+    "status": "Успіх",
+    "detail": "Полювання на chicken з мечем",
+    "time": "11:32:30"
+  },
+  {
+    "action": "stop",
+    "status": "Успіх",
+    "detail": "Бот зупинився за командою",
+    "time": "11:43:59"
+  }
+]
