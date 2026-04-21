@@ -1,14 +1,12 @@
-# -Minecraft-AI-comrade-MUDAK
-это ии бот который может выполнять базовые функции типо добыть дерево убить овцу приготовь мясо следовать за вами и тд. Работает на базе бесплатного ии groq
-ДЛЯ РАБОТЫ МУДАК ИИ НУЖЕН NODE JS https://nodejs.org/en
-также обезательно регистрируйтесь на https://console.groq.com/ и получаете api ключ который вставляете в mudak.js
-для запуска открой локальный сервер в мире или сервере открываете mudak.js и ищете
-кусок кода 
+This is an AI bot that can perform basic functions like harvesting wood, killing a sheep, cooking meat, following you, etc. It runs on the free groq AI.
+MUDAK AI REQUIRES NODE JS https://nodejs.org/en
+Also, be sure to register at https://console.groq.com/ and get an API key, which you paste into mudak.js.
+To run, open a local server in the world or server, open mudak.js, and look for this piece of code:
 const bot = mineflayer.createBot({
-    host: 'localhost',
-    port: 55555,
-    username: 'Mudak_AI',
-    version: '1.21.1'
+host: 'localhost',
+port: 55555,
+username: 'Mudak_AI',
+version: '1.21.1'
 });
-меняете данные под себя но советую использовать версию 1.21.1 потому что на ней плагины работаю стабильнее всего
-после того как открыл сервер возращаешься обратно в папку и в ней жмешь по пустому пространству открыть в терминале и пишешь команду node index.js
+Feel free to change the data to suit your needs, but I recommend using version 1.21.1 because the plugins work most reliably on it.
+After opening the server, return to the folder, click an empty space, open it in the terminal, and type node index.js.
