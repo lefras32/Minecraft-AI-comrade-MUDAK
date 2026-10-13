@@ -1,6 +1,8 @@
 # 🤖 Mudak AI — Minecraft Bot
 
-![Node.js](https://shields.io) ![Mineflayer](https://shields.io) ![Groq](https://shields.io)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Mineflayer](https://img.shields.io/badge/Mineflayer-1E1E1E?style=for-the-badge&logo=minecraft&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)
 
 An intelligent, interactive Minecraft bot powered by **Groq AI** and built with **Mineflayer**. It can carry out basic tasks like gathering resources, hunting animals, cooking food, following the player, and responding to chat commands in real time.
 
