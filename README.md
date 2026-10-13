@@ -1,12 +1,30 @@
-This is an AI bot that can perform basic functions like harvesting wood, killing a sheep, cooking meat, following you, etc. It runs on the free groq AI.
-MUDAK AI REQUIRES NODE JS https://nodejs.org/en
-Also, be sure to register at https://console.groq.com/ and get an API key, which you paste into mudak.js.
-To run, open a local server in the world or server, open mudak.js, and look for this piece of code:
-const bot = mineflayer.createBot({
-host: 'localhost',
-port: 55555,
-username: 'Mudak_AI',
-version: '1.21.1'
-});
-Feel free to change the data to suit your needs, but I recommend using version 1.21.1 because the plugins work most reliably on it.
-After opening the server, return to the folder, click an empty space, open it in the terminal, and type node index.js.
+# 🤖 Mudak AI — Minecraft Bot
+
+An intelligent, interactive Minecraft bot powered by **Groq AI** and built with **Mineflayer**. It can carry out basic tasks like gathering resources, hunting animals, cooking food, following the player, and responding to commands.
+
+---
+
+## ✨ Features
+
+- **🌲 Resource Gathering:** Automatically chops down trees and harvests wood.
+- **🍖 Hunting & Cooking:** Hunts animals (e.g., sheep) and cooks raw meat.
+- **🚶 Player Companion:** Follows you around and assists with in-game tasks.
+- **⚡ Fast AI Processing:** Powered by **Groq Cloud API** for ultra-fast, low-latency AI responses.
+
+---
+
+## 📋 Prerequisites
+
+Before running the bot, ensure you have the following installed and set up:
+
+1. **Node.js**: Download and install [Node.js](https://nodejs.org/en) (v18 or higher recommended).
+2. **Groq API Key**: Create a free account at [Groq Console](https://console.groq.com/) and generate an API key.
+
+---
+
+## ⚙️ Configuration & Setup
+
+1. **Clone or Download** this repository:
+   ```bash
+   git clone [https://github.com/lefras32/Minecraft-AI-comrade-MUDAK.git](https://github.com/lefras32/Minecraft-AI-comrade-MUDAK.git)
+   cd Minecraft-AI-comrade-MUDAK
